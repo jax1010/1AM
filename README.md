@@ -27,3 +27,14 @@ USER INPUT:-
   
   cout<<"Your input is: " << x;
   
+
+  STRING:-
+  
+  #include <string>
+  
+  string firstname = "jon";
+  string lastname = "doe";
+  string fullname = firstname + lastname;
+  string fullname = firstname + " " + lastname;
+  string fullname = firstname.append(lastname);
+  cout<< fullname;

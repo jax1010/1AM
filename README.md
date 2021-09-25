@@ -38,3 +38,19 @@ USER INPUT:-
   string fullname = firstname + " " + lastname;
   string fullname = firstname.append(lastname);
   cout<< fullname;
+  
+  
+  ELSE IF:-
+  
+  #include <iostream>
+  
+  using namespace std;
+  
+  int time = 20;
+  
+  if (time<10){
+    cout<< "Morning"; }
+  elseif (time<20){
+    cout<< "Afteroon";}
+  else { 
+    cout<< "Good night"; }

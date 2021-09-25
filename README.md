@@ -54,3 +54,21 @@ USER INPUT:-
     cout<< "Afteroon";}
   else { 
     cout<< "Good night"; }
+
+  
+  SWITCH :-
+  
+  int day = 3;
+  switch(day){
+    case1: 
+          cout<< "Monday";
+          break;
+    case2:
+          cout<< "Tuesday";
+          break;
+    case3:
+          cout<< "Wednesday";
+          break;
+    default:
+          cout<< "Sunday";
+  )

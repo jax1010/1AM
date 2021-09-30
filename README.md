@@ -1,4 +1,4 @@
-# hello-world
+# C++ Programming
 first repository;
 Compiling the Coding game in my life.
 

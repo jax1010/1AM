@@ -72,3 +72,8 @@ USER INPUT:-
     default:
           cout<< "Sunday";
   )
+  
+  
+  LOOPS:-
+  
+  
